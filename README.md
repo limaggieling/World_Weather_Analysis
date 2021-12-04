@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+Using OpenWeatherApp and Google Maps, we were able to build a program that allowed users to choose travel destinations based on their ideal weather preference. Firstly, we generated random latitudes and longitudes, then saved the locations of nearby cities that could be potential travel destinations. Secondly, using api calls to OpenWeatherApp and gmaps, we were able to extract data on weather conditions, hotel names, and more to create a map that allowed users to choose a start/end point and 3 destinations. We incorporated a layer to show the route and markers with pop-up messages letting users know the temperature, city, country, and weather condition.
